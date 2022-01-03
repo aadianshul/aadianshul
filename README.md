@@ -9,6 +9,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadianshul&theme=prussian&show_icons=true&count_private=true&hide_border=true" alt="aadianshul" />
 </p>
 
+<p align="right">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/?username=aadianshul&theme=prussian&show_icons=true&count_private=true&hide_border=true" />
+    <img width="49.5%" src="http://github-readme-streak-stats.herokuapp.com?user=aadianshul&theme=prussian&hide_border=true" />
+</p>
+
 ![snake gif](https://github.com/aadianshul/aadianshul/blob/output/github-contribution-grid-snake.svg)
 
 
