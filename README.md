@@ -2,10 +2,10 @@
 <h3 align="center">A passionate Competitive Programmer 💻</h3>
 
 
-<h3 align="center"> Connect with me: </h3>
+<h3> Connect with me: </h3>
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/anshul-aditya-7315431ab/"><img height="30" src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/anshul-aditya-7315431ab/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/aadi_anshul"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/anshuladitya_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
