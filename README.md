@@ -5,15 +5,15 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/amitesh-kumar-ak/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/belikeamitesh"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/anshul-aditya-7315431ab/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/aadi_anshul"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://devpost.com/amitesh-kumar"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100012417972068"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
  <a href="https://github.com/belikeamitesh"><img height="30" src="https://img.shields.io/github/followers/belikeamitesh?label=Follow&style=social"></a>&nbsp;&nbsp;
  </p>
 
 <div align="center">
-<h3> 🙎 Amitesh Kumar |<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Front End Developer | 🛸 India </h3>
+<h3> 🙎 Anshul Aditya |<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Competitive Programmer | 🛸 India </h3>
 </div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>Passionate about working on web applications, creating softwarecomputer and tools to help people, building a community</b> :blush:</em>
@@ -51,16 +51,7 @@
 [![Github activity graph](https://activity-graph.herokuapp.com/graph?username=belikeamitesh&theme=react-dark&hide_border=true&color=BDDFFF&line=6E93B5&point=BDDFFF)](https://git.io/akshay2211&hide_border=true)
 
 <code>
-  <h2>Position Of Responsibilities</h2>
-  <ul>
-     <li>Web Dev Lead- Google DSC</li>
-  <li>Former Technical Secretary IIIT Guwahati</li>
-    <li>Former IIITG Programming Club Coordinator</li>
-    <li>E-Cell Technical Member</li>
-  </ul>
-  <br /><br/>
-  <h2 align="center"><strong><u>My Articles And Blogs</u></strong></h2>
-  <ul>
+  
     <li><a style="text-decoration:none;" href="https://iiitg-blogs.com/2020/07/13/the-curriculum-vitae-the-cv/7/" target="_blank">The Curriculum Vitae - IIITG's Newsletter</a></li>
     <li>
       <h3><strong>Web For You</strong></h3>
