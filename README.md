@@ -3,7 +3,7 @@
 
 
 <h3 align="center"> Connect with me: </h3>
-<p align="left">
+<p align="center">
 
 <a href = "https://www.linkedin.com/in/anshul-aditya-7315431ab/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/aadi_anshul"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
